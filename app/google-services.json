@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863661127827",
+    "project_id": "lpu-veggi",
+    "storage_bucket": "lpu-veggi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863661127827:android:715d556d0ad89abf6b7566",
+        "android_client_info": {
+          "package_name": "com.filangladminlpuveggi.adminlpuveggi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuliqGr1g66tZ2nRGWA7k_cvompLkKAnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
